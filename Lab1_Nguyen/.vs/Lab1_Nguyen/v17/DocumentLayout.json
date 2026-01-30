@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Centennial\\Semester 6\\COMP-367_DevOps Implementation\\Assignment\\Lab 1\\Lab1_Nguyen\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A3A0C4-836C-45C6-8C58-068D3BA29ABB}|Lab1_Nguyen\\Lab1_Nguyen.csproj|d:\\centennial\\semester 6\\comp-367_devops implementation\\assignment\\lab 1\\lab1_nguyen\\lab1_nguyen\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A3A0C4-836C-45C6-8C58-068D3BA29ABB}|Lab1_Nguyen\\Lab1_Nguyen.csproj|solutionrelative:lab1_nguyen\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A3A0C4-836C-45C6-8C58-068D3BA29ABB}|Lab1_Nguyen\\Lab1_Nguyen.csproj|d:\\centennial\\semester 6\\comp-367_devops implementation\\assignment\\lab 1\\lab1_nguyen\\lab1_nguyen\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A3A0C4-836C-45C6-8C58-068D3BA29ABB}|Lab1_Nguyen\\Lab1_Nguyen.csproj|solutionrelative:lab1_nguyen\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Centennial\\Semester 6\\COMP-367_DevOps Implementation\\Assignment\\Lab 1\\Lab1_Nguyen\\Lab1_Nguyen\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab1_Nguyen\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Centennial\\Semester 6\\COMP-367_DevOps Implementation\\Assignment\\Lab 1\\Lab1_Nguyen\\Lab1_Nguyen\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab1_Nguyen\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T22:01:46.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Centennial\\Semester 6\\COMP-367_DevOps Implementation\\Assignment\\Lab 1\\Lab1_Nguyen\\Lab1_Nguyen\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1_Nguyen\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Centennial\\Semester 6\\COMP-367_DevOps Implementation\\Assignment\\Lab 1\\Lab1_Nguyen\\Lab1_Nguyen\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Lab1_Nguyen\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T22:01:43.963Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
